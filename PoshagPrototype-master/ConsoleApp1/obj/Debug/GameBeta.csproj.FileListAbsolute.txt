@@ -1,0 +1,8 @@
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\bin\Debug\PoshagPrototype.exe.config
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\bin\Debug\PoshagPrototype.exe
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\bin\Debug\PoshagPrototype.pdb
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\obj\Debug\GameBeta.csproj.AssemblyReference.cache
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\obj\Debug\GameBeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\obj\Debug\GameBeta.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\obj\Debug\PoshagPrototype.exe
+C:\Users\dimon\Desktop\PoshagPrototype-master\ConsoleApp1\obj\Debug\PoshagPrototype.pdb
